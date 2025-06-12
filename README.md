@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelproject-GameGear/blob/master/retroarch/overlay/GameBezels/GameGear/Alien%20Syndrome%20(Japan).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelproject-GameGear/blob/master/retroarch/overlay/GameBezels/GameGear/Alien%20Syndrome%20(Europe).png?raw=true)
